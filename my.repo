@@ -4,3 +4,4 @@ name=My Repository
 baseurl=file:///var/ftp/repo/CentOS/6/x86_64/
 gpgcheck=0
 enabled=1
+help me
